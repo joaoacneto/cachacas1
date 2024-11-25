@@ -1,0 +1,36 @@
+.info {
+  border: 2px solid white;
+  border-radius: 20px;
+  background: rgb(208, 140, 56);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.info__drink {
+  color: black;
+  font-weight: 600;
+  margin: 5px auto;
+  font-size: 14px;
+  padding: 10px;
+  margin: 0;
+}
+
+.info__title {
+  text-align: center;
+  margin: 0;
+  font-size: 18px;
+}
+
+.info__button {
+  max-width: 100px;
+  padding: 5px 5px 5px 5px;
+  gap: 10px;
+  border-radius: 4px;
+  background: linear-gradient(90deg, #f4e406 0%, #de3d0c 99.98%);
+  box-shadow: 5px 5px 10px 0px #00000040;
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 21.78px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+}
